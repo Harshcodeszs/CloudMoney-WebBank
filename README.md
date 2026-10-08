@@ -73,5 +73,5 @@ All reporting modules enforce strict date range validations:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/cloud-money-webapp.git](https://github.com/your-username/cloud-money-webapp.git)
+   git clone https://github.com/Harshcodeszs/CloudMoney-WebBank.git
    cd cloud-money-webapp
